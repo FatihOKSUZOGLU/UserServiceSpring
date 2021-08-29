@@ -1,3 +1,5 @@
+FRONT END Repository : (https://github.com/FatihOKSUZOGLU/Front-End-Project-WEB)
+
 ABOUT THE PROJECT:
 This project is an online social web application that is being carried out by me in order to learn an online web application.
 This project, which is carried out using Spring boot and React, is an application where users can register and share in-app, both public and private shares can be seen.
@@ -8,7 +10,7 @@ Node JS
 Postman 
 Google Chrome (with React Developer Tools , Redux Devtools)
 
-[ FRONT END Repository ](https://github.com/FatihOKSUZOGLU/Front-End-Project-WEB)
+
 USED TECHNOLOGIES IN FRONT END: 
 JavaScript was used as the development language. Visual Studio Code for Environment.
 The application is built on React js. React Router is used for Internal Router and Redux is used for global application state. 
