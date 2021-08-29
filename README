@@ -8,7 +8,8 @@ Node JS
 Postman 
 Google Chrome (with React Developer Tools , Redux Devtools)
 
-USED TECHNOLOGIES IN FRONT END: ( https://github.com/FatihOKSUZOGLU/Front-End-Project-WEB )
+[ FRONT END Repository ](https://github.com/FatihOKSUZOGLU/Front-End-Project-WEB)
+USED TECHNOLOGIES IN FRONT END: 
 JavaScript was used as the development language. Visual Studio Code for Environment.
 The application is built on React js. React Router is used for Internal Router and Redux is used for global application state. 
 
