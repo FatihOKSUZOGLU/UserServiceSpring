@@ -1,5 +1,6 @@
 package com.project1.ws;
 
+import com.project1.ws.user.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;
